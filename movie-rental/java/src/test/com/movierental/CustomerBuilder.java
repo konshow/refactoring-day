@@ -1,4 +1,4 @@
-package movierental;
+package com.movierental;
 
 import java.util.ArrayList;
 import java.util.Collections;

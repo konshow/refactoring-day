@@ -1,4 +1,4 @@
-package movierental;
+package com.movierental;
 
 /**
  * The rental class represents a customer renting a movie.
